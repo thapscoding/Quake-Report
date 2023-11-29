@@ -1,5 +1,5 @@
 ﻿# Quake-Report
- QuakeTracker is a sleek mobile app that instantly reports global earthquakes using a live API feed. Users receive real-time earthquake data, including magnitude, location, and time.
+ Quake -Report is a sleek mobile app that instantly reports global earthquakes using a live API feed. Users receive real-time earthquake data, including magnitude, location, and time.
  API provided by https://www.usgs.gov/
  
 # Screenshots
